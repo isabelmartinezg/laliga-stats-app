@@ -53,7 +53,8 @@ function filtrar() {
                         }, 
                         datalabels: { 
                             anchor: 'end', 
-                            align: 'start', 
+                            align: 'end', 
+                            baseline: 'bottom'
                             color: '#000', 
                             font: { 
                                 weight: 'bold', 
@@ -76,14 +77,8 @@ function filtrar() {
                 }
             });
         });
-
-    // 🔥 Auto-actualizar cuando cambie cualquier filtro 
-    document.querySelectorAll("select, input").forEach(sel => { 
-        sel.addEventListener("change", () => { 
-            document.getElementById("filtrarBtn").click(); 
-        }); 
-    });
 }
+
 
 
 
