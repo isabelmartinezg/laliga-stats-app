@@ -51,7 +51,7 @@ function filtrar() {
                         datalabels: { 
                             anchor: 'start', 
                             align: 'start', 
-                            offset: 2,
+                            offset: 6,
                             color: '#000', 
                             font: { 
                                 weight: 'bold', 
@@ -75,6 +75,7 @@ function filtrar() {
             });
         });
 }
+
 
 
 
