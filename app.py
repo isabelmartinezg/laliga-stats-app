@@ -34,8 +34,12 @@ def filtrar():
             continue
 
         # Filtrar parte
-        if parte != "total" and str(p["parte"]) != parte:
-            continue
+        if parte == "total":
+            if p["parte"] != "total":
+                continue
+        else:
+            if str(p["parte"]) != parte:
+                continue
 
         # Filtrar local/visitante
         if local == "local" and p["home"] != equipo:
@@ -74,6 +78,7 @@ def filtrar():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
 
 
 
