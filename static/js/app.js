@@ -49,9 +49,9 @@ function filtrar() {
                             display: false
                         }, 
                         datalabels: { 
-                            anchor: 'end', 
-                            align: 'end', 
-                            baseline: 'bottom',
+                            anchor: 'start', 
+                            align: 'start', 
+                            offset: 2,
                             color: '#000', 
                             font: { 
                                 weight: 'bold', 
@@ -75,6 +75,7 @@ function filtrar() {
             });
         });
 }
+
 
 
 
