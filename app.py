@@ -48,7 +48,9 @@ def filtrar():
         valor_metrica = p[campo]
 
         # Aplicar condición
-        if condicion == "menos":
+        if not condicion or valor is None:
+            cumple = None # sin filtro
+        elif condicion == "menos":
             cumple = valor_metrica < valor
         elif condicion == "mas":
             cumple = valor_metrica > valor
@@ -63,7 +65,7 @@ def filtrar():
         })
 
     # Calcular porcentaje
-    if condicion:
+    if condicion and valor is not None:
         porcentaje = round(100 * sum(r["cumple"] for r in resultados) / len(resultados), 2)
     else:
         porcentaje = None
@@ -72,5 +74,6 @@ def filtrar():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
 
 
