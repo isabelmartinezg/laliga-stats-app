@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+}
+
+.filtros {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
