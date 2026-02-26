@@ -34,6 +34,7 @@ function filtrar() {
 
             chart = new Chart(document.getElementById("grafico"), {
                 type: "bar",
+                plugins: [ChartDataLabels],
                 data: {
                     labels: fechas,
                     datasets: [{
@@ -42,7 +43,26 @@ function filtrar() {
                         backgroundColor: colores
                     }]
                 },
-                options: { 
+                options: {
+                    responsive: true, 
+                    maintainAspectRatio: false,
+
+                    plugins: { 
+                        legend: { 
+                            display: false
+                        }, 
+                        datalabels: { 
+                            anchor: 'end', 
+                            align: 'start', 
+                            color: '#000', 
+                            font: { 
+                                weight: 'bold', 
+                                size: 14 
+                            }, 
+                            formatter: (value) => value 
+                        } 
+                    },
+                    
                     scales: { 
                         y: { 
                             ticks: { 
@@ -56,7 +76,15 @@ function filtrar() {
                 }
             });
         });
+
+    // 🔥 Auto-actualizar cuando cambie cualquier filtro 
+    document.querySelectorAll("select, input").forEach(sel => { 
+        sel.addEventListener("change", () => { 
+            document.getElementById("filtrarBtn").click(); 
+        }); 
+    });
 }
+
 
 
 
