@@ -19,7 +19,12 @@ def filtrar():
     parte = request.args.get("parte")
     local = request.args.get("local")
     condicion = request.args.get("condicion")
-    valor = int(request.args.get("valor"))
+    valor_raw = request.args.get("valor")
+    # Si no hay número → no aplicar filtro
+    if not valor_raw:
+        valor = None
+    else:
+        valor = int(valor_raw)
 
     resultados = []
 
@@ -67,4 +72,5 @@ def filtrar():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
 
