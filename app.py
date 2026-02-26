@@ -43,7 +43,12 @@ def filtrar():
         valor_metrica = p[campo]
 
         # Aplicar condición
-        cumple = valor_metrica < valor if condicion == "menos" else valor_metrica > valor
+        if condicion == "menos":
+            cumple = valor_metrica < valor
+        elif condicion == "mas":
+            cumple = valor_metrica > valor
+        else:
+            cumple = None # sin filtro
 
         resultados.append({
             "fecha": p["fecha"],
@@ -53,9 +58,13 @@ def filtrar():
         })
 
     # Calcular porcentaje
-    porcentaje = round(100 * sum(r["cumple"] for r in resultados) / len(resultados), 2) if resultados else 0
+    if condicion:
+        porcentaje = round(100 * sum(r["cumple"] for r in resultados) / len(resultados), 2)
+    else:
+        porcentaje = None
 
     return jsonify({"resultados": resultados, "porcentaje": porcentaje})
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
