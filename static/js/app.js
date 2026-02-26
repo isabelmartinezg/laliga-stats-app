@@ -7,7 +7,7 @@ function filtrar() {
         parte: document.getElementById("parte").value,
         local: document.getElementById("local").value,
         condicion: document.getElementById("condicion").value,
-        valor: document.getElementById("valor").value
+        valor: document.getElementById("valor").value || ""
     });
 
     fetch("/filtrar?" + params.toString())
@@ -57,6 +57,7 @@ function filtrar() {
             });
         });
 }
+
 
 
 
