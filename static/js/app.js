@@ -15,10 +15,20 @@ function filtrar() {
         .then(data => {
             const fechas = data.resultados.map(r => r.fecha + " vs " + r.vs);
             const valores = data.resultados.map(r => r.valor);
-            const colores = data.resultados.map(r => r.cumple ? "green" : "red");
+            let colores;
+            if (data.porcentaje === null) {
+                // sin filtro → barras azules
+                colores = data.resultados.map(_ => "steelblue");
+            } else {
+                // con filtro → verde/rojo
+                colores = data.resultados.map(r => r.cumple ? "green" : "red");
+            }
 
-            document.getElementById("porcentaje").innerText =
-                "Cumplimiento: " + data.porcentaje + "%";
+            if (data.porcentaje === null) {
+                document.getElementById("porcentaje").innerText = "";
+            } else {
+                document.getElementById("porcentaje").innerText = "Cumplimiento: " + data.porcentaje + "%";
+            }
 
             if (chart) chart.destroy();
 
@@ -35,3 +45,4 @@ function filtrar() {
             });
         });
 }
+
