@@ -13,7 +13,7 @@ function filtrar() {
     fetch("/filtrar?" + params.toString())
         .then(r => r.json())
         .then(data => {
-            const fechas = data.resultados.map(r => r.fecha + " vs " + r.vs);
+            const fechas = data.resultados.map(r => r.vs);
             const valores = data.resultados.map(r => r.valor);
             let colores;
             if (data.porcentaje === null) {
@@ -74,6 +74,7 @@ function filtrar() {
             });
         });
 }
+
 
 
 
