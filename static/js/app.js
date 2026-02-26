@@ -44,9 +44,6 @@ function filtrar() {
                     }]
                 },
                 options: {
-                    responsive: true, 
-                    maintainAspectRatio: false,
-
                     plugins: { 
                         legend: { 
                             display: false
@@ -54,7 +51,7 @@ function filtrar() {
                         datalabels: { 
                             anchor: 'end', 
                             align: 'end', 
-                            baseline: 'bottom'
+                            baseline: 'bottom',
                             color: '#000', 
                             font: { 
                                 weight: 'bold', 
@@ -78,6 +75,7 @@ function filtrar() {
             });
         });
 }
+
 
 
 
