@@ -41,8 +41,20 @@ function filtrar() {
                         data: valores,
                         backgroundColor: colores
                     }]
+                },
+                options: { 
+                    scales: { 
+                        y: { 
+                            ticks: { 
+                                precision: 0, // 🔥 fuerza a usar solo enteros 
+                                callback: function(value) { 
+                                    return Number.isInteger(value) ? value : null; 
+                                } 
+                            } 
+                        } 
+                    } 
                 }
             });
-        });
 }
+
 
