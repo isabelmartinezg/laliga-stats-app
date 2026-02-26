@@ -50,7 +50,7 @@ function filtrar() {
                         }, 
                         datalabels: { 
                             anchor: 'start', 
-                            align: 'start', 
+                            align: 'end', 
                             color: '#000', 
                             font: { 
                                 weight: 'bold', 
@@ -74,6 +74,7 @@ function filtrar() {
             });
         });
 }
+
 
 
 
