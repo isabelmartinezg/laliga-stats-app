@@ -11950,5 +11950,53 @@
         "amarillas_away": 2,
         "rojas_home": 0,
         "rojas_away": 0
+    },
+    {
+        "fecha": "2026-02-27",
+        "home": "Levante UD",
+        "away": "Deportivo Alavés",
+        "parte": 1,
+        "remates_home": 3,
+        "remates_away": 13,
+        "remates_a_puerta_home": 1,
+        "remates_a_puerta_away": 6,
+        "corners_home": 3,
+        "corners_away": 5,
+        "amarillas_home": 0,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-02-27",
+        "home": "Levante UD",
+        "away": "Deportivo Alavés",
+        "parte": 2,
+        "remates_home": 19,
+        "remates_away": 4,
+        "remates_a_puerta_home": 4,
+        "remates_a_puerta_away": 1,
+        "corners_home": 7,
+        "corners_away": 1,
+        "amarillas_home": 1,
+        "amarillas_away": 5,
+        "rojas_home": 0,
+        "rojas_away": 1
+    },
+    {
+        "fecha": "2026-02-27",
+        "home": "Levante UD",
+        "away": "Deportivo Alavés",
+        "parte": "total",
+        "remates_home": 22,
+        "remates_away": 17,
+        "remates_a_puerta_home": 5,
+        "remates_a_puerta_away": 7,
+        "corners_home": 10,
+        "corners_away": 6,
+        "amarillas_home": 1,
+        "amarillas_away": 6,
+        "rojas_home": 0,
+        "rojas_away": 1
     }
 ]
