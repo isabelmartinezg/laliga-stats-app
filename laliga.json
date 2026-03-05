@@ -12382,5 +12382,53 @@
         "amarillas_away": 2,
         "rojas_home": 0,
         "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-02",
+        "home": "Real Madrid",
+        "away": "Getafe",
+        "parte": 1,
+        "remates_home": 6,
+        "remates_away": 6,
+        "remates_a_puerta_home": 4,
+        "remates_a_puerta_away": 1,
+        "corners_home": 4,
+        "corners_away": 1,
+        "amarillas_home": 0,
+        "amarillas_away": 2,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-02",
+        "home": "Real Madrid",
+        "away": "Getafe",
+        "parte": 2,
+        "remates_home": 12,
+        "remates_away": 3,
+        "remates_a_puerta_home": 3,
+        "remates_a_puerta_away": 2,
+        "corners_home": 6,
+        "corners_away": 1,
+        "amarillas_home": 4,
+        "amarillas_away": 4,
+        "rojas_home": 1,
+        "rojas_away": 1
+    },
+    {
+        "fecha": "2026-03-02",
+        "home": "Real Madrid",
+        "away": "Getafe",
+        "parte": "total",
+        "remates_home": 18,
+        "remates_away": 9,
+        "remates_a_puerta_home": 7,
+        "remates_a_puerta_away": 3,
+        "corners_home": 10,
+        "corners_away": 2,
+        "amarillas_home": 4,
+        "amarillas_away": 6,
+        "rojas_home": 1,
+        "rojas_away": 1
     }
 ]
