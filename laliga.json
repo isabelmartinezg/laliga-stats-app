@@ -12430,5 +12430,53 @@
         "amarillas_away": 6,
         "rojas_home": 1,
         "rojas_away": 1
+    },
+    {
+        "fecha": "2026-03-04",
+        "home": "Rayo Vallecano",
+        "away": "Real Oviedo",
+        "parte": 1,
+        "remates_home": 12,
+        "remates_away": 3,
+        "remates_a_puerta_home": 4,
+        "remates_a_puerta_away": 0,
+        "corners_home": 5,
+        "corners_away": 0,
+        "amarillas_home": 0,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-04",
+        "home": "Rayo Vallecano",
+        "away": "Real Oviedo",
+        "parte": 2,
+        "remates_home": 7,
+        "remates_away": 5,
+        "remates_a_puerta_home": 3,
+        "remates_a_puerta_away": 2,
+        "corners_home": 7,
+        "corners_away": 2,
+        "amarillas_home": 1,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-04",
+        "home": "Rayo Vallecano",
+        "away": "Real Oviedo",
+        "parte": "total",
+        "remates_home": 19,
+        "remates_away": 8,
+        "remates_a_puerta_home": 7,
+        "remates_a_puerta_away": 2,
+        "corners_home": 12,
+        "corners_away": 2,
+        "amarillas_home": 1,
+        "amarillas_away": 2,
+        "rojas_home": 0,
+        "rojas_away": 0
     }
 ]
