@@ -12958,5 +12958,53 @@
         "amarillas_away": 2,
         "rojas_home": 0,
         "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-13",
+        "home": "Deportivo Alavés",
+        "away": "Villarreal",
+        "parte": 1,
+        "remates_home": 4,
+        "remates_away": 5,
+        "remates_a_puerta_home": 0,
+        "remates_a_puerta_away": 2,
+        "corners_home": 4,
+        "corners_away": 2,
+        "amarillas_home": 1,
+        "amarillas_away": 0,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-13",
+        "home": "Deportivo Alavés",
+        "away": "Villarreal",
+        "parte": 2,
+        "remates_home": 4,
+        "remates_away": 5,
+        "remates_a_puerta_home": 0,
+        "remates_a_puerta_away": 2,
+        "corners_home": 1,
+        "corners_away": 0,
+        "amarillas_home": 3,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-13",
+        "home": "Deportivo Alavés",
+        "away": "Villarreal",
+        "parte": "total",
+        "remates_home": 8,
+        "remates_away": 10,
+        "remates_a_puerta_home": 0,
+        "remates_a_puerta_away": 4,
+        "corners_home": 5,
+        "corners_away": 2,
+        "amarillas_home": 4,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
     }
 ]
