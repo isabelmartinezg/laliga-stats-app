@@ -13390,5 +13390,53 @@
         "amarillas_away": 0,
         "rojas_home": 0,
         "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-16",
+        "home": "Rayo Vallecano",
+        "away": "Levante UD",
+        "parte": 1,
+        "remates_home": 4,
+        "remates_away": 11,
+        "remates_a_puerta_home": 1,
+        "remates_a_puerta_away": 4,
+        "corners_home": 1,
+        "corners_away": 2,
+        "amarillas_home": 2,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-16",
+        "home": "Rayo Vallecano",
+        "away": "Levante UD",
+        "parte": 2,
+        "remates_home": 14,
+        "remates_away": 8,
+        "remates_a_puerta_home": 3,
+        "remates_a_puerta_away": 1,
+        "corners_home": 4,
+        "corners_away": 4,
+        "amarillas_home": 2,
+        "amarillas_away": 4,
+        "rojas_home": 1,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-16",
+        "home": "Rayo Vallecano",
+        "away": "Levante UD",
+        "parte": "total",
+        "remates_home": 18,
+        "remates_away": 19,
+        "remates_a_puerta_home": 4,
+        "remates_a_puerta_away": 5,
+        "corners_home": 5,
+        "corners_away": 6,
+        "amarillas_home": 4,
+        "amarillas_away": 5,
+        "rojas_home": 1,
+        "rojas_away": 0
     }
 ]
