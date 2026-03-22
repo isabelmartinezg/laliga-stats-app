@@ -13438,5 +13438,53 @@
         "amarillas_away": 5,
         "rojas_home": 1,
         "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-20",
+        "home": "Villarreal",
+        "away": "Real Sociedad",
+        "parte": 1,
+        "remates_home": 12,
+        "remates_away": 6,
+        "remates_a_puerta_home": 6,
+        "remates_a_puerta_away": 3,
+        "corners_home": 2,
+        "corners_away": 4,
+        "amarillas_home": 0,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-20",
+        "home": "Villarreal",
+        "away": "Real Sociedad",
+        "parte": 2,
+        "remates_home": 9,
+        "remates_away": 5,
+        "remates_a_puerta_home": 4,
+        "remates_a_puerta_away": 1,
+        "corners_home": 2,
+        "corners_away": 1,
+        "amarillas_home": 0,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-03-20",
+        "home": "Villarreal",
+        "away": "Real Sociedad",
+        "parte": "total",
+        "remates_home": 21,
+        "remates_away": 11,
+        "remates_a_puerta_home": 10,
+        "remates_a_puerta_away": 4,
+        "corners_home": 4,
+        "corners_away": 5,
+        "amarillas_home": 0,
+        "amarillas_away": 2,
+        "rojas_home": 0,
+        "rojas_away": 0
     }
 ]
