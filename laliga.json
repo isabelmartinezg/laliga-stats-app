@@ -98,7 +98,7 @@
     {
         "fecha": "2025-08-16",
         "home": "Mallorca",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 2,
         "remates_away": 7,
@@ -114,7 +114,7 @@
     {
         "fecha": "2025-08-16",
         "home": "Mallorca",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 2,
         "remates_away": 17,
@@ -130,7 +130,7 @@
     {
         "fecha": "2025-08-16",
         "home": "Mallorca",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 4,
         "remates_away": 24,
@@ -626,7 +626,7 @@
     {
         "fecha": "2025-08-23",
         "home": "Levante UD",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 5,
         "remates_away": 11,
@@ -642,7 +642,7 @@
     {
         "fecha": "2025-08-23",
         "home": "Levante UD",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 3,
         "remates_away": 15,
@@ -658,7 +658,7 @@
     {
         "fecha": "2025-08-23",
         "home": "Levante UD",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 8,
         "remates_away": 26,
@@ -1442,7 +1442,7 @@
     {
         "fecha": "2025-08-31",
         "home": "Rayo Vallecano",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 4,
         "remates_away": 5,
@@ -1458,7 +1458,7 @@
     {
         "fecha": "2025-08-31",
         "home": "Rayo Vallecano",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 8,
         "remates_away": 7,
@@ -1474,7 +1474,7 @@
     {
         "fecha": "2025-08-31",
         "home": "Rayo Vallecano",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 12,
         "remates_away": 12,
@@ -1873,7 +1873,7 @@
     },
     {
         "fecha": "2025-09-14",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Valencia",
         "parte": 1,
         "remates_home": 11,
@@ -1889,7 +1889,7 @@
     },
     {
         "fecha": "2025-09-14",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Valencia",
         "parte": 2,
         "remates_home": 13,
@@ -1905,7 +1905,7 @@
     },
     {
         "fecha": "2025-09-14",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Valencia",
         "parte": "total",
         "remates_home": 24,
@@ -2401,7 +2401,7 @@
     },
     {
         "fecha": "2025-09-21",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Getafe",
         "parte": 1,
         "remates_home": 8,
@@ -2417,7 +2417,7 @@
     },
     {
         "fecha": "2025-09-21",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Getafe",
         "parte": 2,
         "remates_home": 8,
@@ -2433,7 +2433,7 @@
     },
     {
         "fecha": "2025-09-21",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Getafe",
         "parte": "total",
         "remates_home": 16,
@@ -2834,7 +2834,7 @@
     {
         "fecha": "2025-09-25",
         "home": "Real Oviedo",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 4,
         "remates_away": 11,
@@ -2850,7 +2850,7 @@
     {
         "fecha": "2025-09-25",
         "home": "Real Oviedo",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 3,
         "remates_away": 11,
@@ -2866,7 +2866,7 @@
     {
         "fecha": "2025-09-25",
         "home": "Real Oviedo",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 7,
         "remates_away": 22,
@@ -3217,7 +3217,7 @@
     },
     {
         "fecha": "2025-09-28",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Real Sociedad",
         "parte": 1,
         "remates_home": 9,
@@ -3233,7 +3233,7 @@
     },
     {
         "fecha": "2025-09-28",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Real Sociedad",
         "parte": 2,
         "remates_home": 13,
@@ -3249,7 +3249,7 @@
     },
     {
         "fecha": "2025-09-28",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Real Sociedad",
         "parte": "total",
         "remates_home": 22,
@@ -3650,7 +3650,7 @@
     {
         "fecha": "2025-10-05",
         "home": "Sevilla",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 7,
         "remates_away": 5,
@@ -3666,7 +3666,7 @@
     {
         "fecha": "2025-10-05",
         "home": "Sevilla",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 6,
         "remates_away": 12,
@@ -3682,7 +3682,7 @@
     {
         "fecha": "2025-10-05",
         "home": "Sevilla",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 13,
         "remates_away": 17,
@@ -3937,7 +3937,7 @@
     },
     {
         "fecha": "2025-10-18",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Girona FC",
         "parte": 1,
         "remates_home": 10,
@@ -3953,7 +3953,7 @@
     },
     {
         "fecha": "2025-10-18",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Girona FC",
         "parte": 2,
         "remates_home": 17,
@@ -3969,7 +3969,7 @@
     },
     {
         "fecha": "2025-10-18",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Girona FC",
         "parte": "total",
         "remates_home": 27,
@@ -4610,7 +4610,7 @@
     {
         "fecha": "2025-10-26",
         "home": "Real Madrid",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 12,
         "remates_away": 7,
@@ -4626,7 +4626,7 @@
     {
         "fecha": "2025-10-26",
         "home": "Real Madrid",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 11,
         "remates_away": 8,
@@ -4642,7 +4642,7 @@
     {
         "fecha": "2025-10-26",
         "home": "Real Madrid",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 23,
         "remates_away": 15,
@@ -5137,7 +5137,7 @@
     },
     {
         "fecha": "2025-11-02",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Elche",
         "parte": 1,
         "remates_home": 11,
@@ -5153,7 +5153,7 @@
     },
     {
         "fecha": "2025-11-02",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Elche",
         "parte": 2,
         "remates_home": 6,
@@ -5169,7 +5169,7 @@
     },
     {
         "fecha": "2025-11-02",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Elche",
         "parte": "total",
         "remates_home": 17,
@@ -5714,7 +5714,7 @@
     {
         "fecha": "2025-11-09",
         "home": "Celta Vigo",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 4,
         "remates_away": 14,
@@ -5730,7 +5730,7 @@
     {
         "fecha": "2025-11-09",
         "home": "Celta Vigo",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 1,
         "remates_away": 7,
@@ -5746,7 +5746,7 @@
     {
         "fecha": "2025-11-09",
         "home": "Celta Vigo",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 5,
         "remates_away": 21,
@@ -5857,7 +5857,7 @@
     },
     {
         "fecha": "2025-11-22",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Athletic Club",
         "parte": 1,
         "remates_home": 8,
@@ -5873,7 +5873,7 @@
     },
     {
         "fecha": "2025-11-22",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Athletic Club",
         "parte": 2,
         "remates_home": 11,
@@ -5889,7 +5889,7 @@
     },
     {
         "fecha": "2025-11-22",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Athletic Club",
         "parte": "total",
         "remates_home": 19,
@@ -6337,7 +6337,7 @@
     },
     {
         "fecha": "2025-11-29",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Deportivo Alavés",
         "parte": 1,
         "remates_home": 7,
@@ -6353,7 +6353,7 @@
     },
     {
         "fecha": "2025-11-29",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Deportivo Alavés",
         "parte": 2,
         "remates_home": 11,
@@ -6369,7 +6369,7 @@
     },
     {
         "fecha": "2025-11-29",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Deportivo Alavés",
         "parte": "total",
         "remates_home": 18,
@@ -6721,7 +6721,7 @@
     },
     {
         "fecha": "2025-12-02",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Atlético Madrid",
         "parte": 1,
         "remates_home": 12,
@@ -6737,7 +6737,7 @@
     },
     {
         "fecha": "2025-12-02",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Atlético Madrid",
         "parte": 2,
         "remates_home": 7,
@@ -6753,7 +6753,7 @@
     },
     {
         "fecha": "2025-12-02",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Atlético Madrid",
         "parte": "total",
         "remates_home": 19,
@@ -6962,7 +6962,7 @@
     {
         "fecha": "2025-12-06",
         "home": "Real Betis",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 7,
         "remates_away": 8,
@@ -6978,7 +6978,7 @@
     {
         "fecha": "2025-12-06",
         "home": "Real Betis",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 10,
         "remates_away": 8,
@@ -6994,7 +6994,7 @@
     {
         "fecha": "2025-12-06",
         "home": "Real Betis",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 17,
         "remates_away": 16,
@@ -7441,7 +7441,7 @@
     },
     {
         "fecha": "2025-12-13",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Osasuna",
         "parte": 1,
         "remates_home": 13,
@@ -7457,7 +7457,7 @@
     },
     {
         "fecha": "2025-12-13",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Osasuna",
         "parte": 2,
         "remates_home": 11,
@@ -7473,7 +7473,7 @@
     },
     {
         "fecha": "2025-12-13",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Osasuna",
         "parte": "total",
         "remates_home": 24,
@@ -8018,7 +8018,7 @@
     {
         "fecha": "2025-12-21",
         "home": "Villarreal",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 8,
         "remates_away": 5,
@@ -8034,7 +8034,7 @@
     {
         "fecha": "2025-12-21",
         "home": "Villarreal",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 6,
         "remates_away": 14,
@@ -8050,7 +8050,7 @@
     {
         "fecha": "2025-12-21",
         "home": "Villarreal",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 14,
         "remates_away": 19,
@@ -8402,7 +8402,7 @@
     {
         "fecha": "2026-01-03",
         "home": "Espanyol",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 7,
         "remates_away": 3,
@@ -8418,7 +8418,7 @@
     {
         "fecha": "2026-01-03",
         "home": "Espanyol",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 7,
         "remates_away": 12,
@@ -8434,7 +8434,7 @@
     {
         "fecha": "2026-01-03",
         "home": "Espanyol",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 14,
         "remates_away": 15,
@@ -9458,7 +9458,7 @@
     {
         "fecha": "2026-01-18",
         "home": "Real Sociedad",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 3,
         "remates_away": 12,
@@ -9474,7 +9474,7 @@
     {
         "fecha": "2026-01-18",
         "home": "Real Sociedad",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 4,
         "remates_away": 13,
@@ -9490,7 +9490,7 @@
     {
         "fecha": "2026-01-18",
         "home": "Real Sociedad",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 7,
         "remates_away": 25,
@@ -9841,7 +9841,7 @@
     },
     {
         "fecha": "2026-01-25",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Real Oviedo",
         "parte": 1,
         "remates_home": 5,
@@ -9857,7 +9857,7 @@
     },
     {
         "fecha": "2026-01-25",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Real Oviedo",
         "parte": 2,
         "remates_home": 10,
@@ -9873,7 +9873,7 @@
     },
     {
         "fecha": "2026-01-25",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Real Oviedo",
         "parte": "total",
         "remates_home": 15,
@@ -10226,7 +10226,7 @@
     {
         "fecha": "2026-01-31",
         "home": "Elche",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 4,
         "remates_away": 17,
@@ -10242,7 +10242,7 @@
     {
         "fecha": "2026-01-31",
         "home": "Elche",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 5,
         "remates_away": 13,
@@ -10258,7 +10258,7 @@
     {
         "fecha": "2026-01-31",
         "home": "Elche",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 9,
         "remates_away": 30,
@@ -10561,7 +10561,7 @@
     },
     {
         "fecha": "2026-02-07",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Mallorca",
         "parte": 1,
         "remates_home": 10,
@@ -10577,7 +10577,7 @@
     },
     {
         "fecha": "2026-02-07",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Mallorca",
         "parte": 2,
         "remates_home": 14,
@@ -10593,7 +10593,7 @@
     },
     {
         "fecha": "2026-02-07",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Mallorca",
         "parte": "total",
         "remates_home": 24,
@@ -11378,7 +11378,7 @@
     {
         "fecha": "2026-02-16",
         "home": "Girona FC",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 4,
         "remates_away": 12,
@@ -11394,7 +11394,7 @@
     {
         "fecha": "2026-02-16",
         "home": "Girona FC",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 9,
         "remates_away": 15,
@@ -11410,7 +11410,7 @@
     {
         "fecha": "2026-02-16",
         "home": "Girona FC",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 13,
         "remates_away": 27,
@@ -11761,7 +11761,7 @@
     },
     {
         "fecha": "2026-02-22",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Levante UD",
         "parte": 1,
         "remates_home": 9,
@@ -11777,7 +11777,7 @@
     },
     {
         "fecha": "2026-02-22",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Levante UD",
         "parte": 2,
         "remates_home": 13,
@@ -11793,7 +11793,7 @@
     },
     {
         "fecha": "2026-02-22",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Levante UD",
         "parte": "total",
         "remates_home": 22,
@@ -12049,7 +12049,7 @@
     },
     {
         "fecha": "2026-02-28",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Villarreal",
         "parte": 1,
         "remates_home": 10,
@@ -12065,7 +12065,7 @@
     },
     {
         "fecha": "2026-02-28",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Villarreal",
         "parte": 2,
         "remates_home": 9,
@@ -12081,7 +12081,7 @@
     },
     {
         "fecha": "2026-02-28",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Villarreal",
         "parte": "total",
         "remates_home": 19,
@@ -12674,7 +12674,7 @@
     {
         "fecha": "2026-03-07",
         "home": "Athletic Club",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 1,
         "remates_home": 3,
         "remates_away": 2,
@@ -12690,7 +12690,7 @@
     {
         "fecha": "2026-03-07",
         "home": "Athletic Club",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": 2,
         "remates_home": 7,
         "remates_away": 5,
@@ -12706,7 +12706,7 @@
     {
         "fecha": "2026-03-07",
         "home": "Athletic Club",
-        "away": "Barcelona",
+        "away": "FC Barcelona",
         "parte": "total",
         "remates_home": 10,
         "remates_away": 7,
@@ -13249,7 +13249,7 @@
     },
     {
         "fecha": "2026-03-15",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Sevilla",
         "parte": 1,
         "remates_home": 7,
@@ -13265,7 +13265,7 @@
     },
     {
         "fecha": "2026-03-15",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Sevilla",
         "parte": 2,
         "remates_home": 6,
@@ -13281,7 +13281,7 @@
     },
     {
         "fecha": "2026-03-15",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Sevilla",
         "parte": "total",
         "remates_home": 13,
@@ -13729,7 +13729,7 @@
     },
     {
         "fecha": "2026-03-22",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Rayo Vallecano",
         "parte": 1,
         "remates_home": 9,
@@ -13745,7 +13745,7 @@
     },
     {
         "fecha": "2026-03-22",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Rayo Vallecano",
         "parte": 2,
         "remates_home": 6,
@@ -13761,7 +13761,7 @@
     },
     {
         "fecha": "2026-03-22",
-        "home": "Barcelona",
+        "home": "FC Barcelona",
         "away": "Rayo Vallecano",
         "parte": "total",
         "remates_home": 15,
@@ -13965,6 +13965,198 @@
         "amarillas_home": 0,
         "amarillas_away": 4,
         "rojas_home": 0,
+        "rojas_away": 1
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Real Sociedad",
+        "away": "Levante UD",
+        "parte": 1,
+        "remates_home": 10,
+        "remates_away": 2,
+        "remates_a_puerta_home": 2,
+        "remates_a_puerta_away": 1,
+        "corners_home": 5,
+        "corners_away": 2,
+        "amarillas_home": 1,
+        "amarillas_away": 2,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Real Sociedad",
+        "away": "Levante UD",
+        "parte": 2,
+        "remates_home": 8,
+        "remates_away": 6,
+        "remates_a_puerta_home": 3,
+        "remates_a_puerta_away": 3,
+        "corners_home": 6,
+        "corners_away": 3,
+        "amarillas_home": 1,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Real Sociedad",
+        "away": "Levante UD",
+        "parte": "total",
+        "remates_home": 18,
+        "remates_away": 8,
+        "remates_a_puerta_home": 5,
+        "remates_a_puerta_away": 4,
+        "corners_home": 11,
+        "corners_away": 5,
+        "amarillas_home": 2,
+        "amarillas_away": 3,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Mallorca",
+        "away": "Real Madrid",
+        "parte": 1,
+        "remates_home": 3,
+        "remates_away": 8,
+        "remates_a_puerta_home": 1,
+        "remates_a_puerta_away": 4,
+        "corners_home": 2,
+        "corners_away": 3,
+        "amarillas_home": 0,
+        "amarillas_away": 0,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Mallorca",
+        "away": "Real Madrid",
+        "parte": 2,
+        "remates_home": 3,
+        "remates_away": 7,
+        "remates_a_puerta_home": 1,
+        "remates_a_puerta_away": 2,
+        "corners_home": 4,
+        "corners_away": 1,
+        "amarillas_home": 4,
+        "amarillas_away": 2,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Mallorca",
+        "away": "Real Madrid",
+        "parte": "total",
+        "remates_home": 6,
+        "remates_away": 15,
+        "remates_a_puerta_home": 2,
+        "remates_a_puerta_away": 6,
+        "corners_home": 6,
+        "corners_away": 4,
+        "amarillas_home": 4,
+        "amarillas_away": 2,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Real Betis",
+        "away": "Espanyol",
+        "parte": 1,
+        "remates_home": 11,
+        "remates_away": 4,
+        "remates_a_puerta_home": 4,
+        "remates_a_puerta_away": 1,
+        "corners_home": 2,
+        "corners_away": 1,
+        "amarillas_home": 0,
+        "amarillas_away": 0,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Real Betis",
+        "away": "Espanyol",
+        "parte": 2,
+        "remates_home": 8,
+        "remates_away": 4,
+        "remates_a_puerta_home": 2,
+        "remates_a_puerta_away": 1,
+        "corners_home": 2,
+        "corners_away": 2,
+        "amarillas_home": 1,
+        "amarillas_away": 3,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Real Betis",
+        "away": "Espanyol",
+        "parte": "total",
+        "remates_home": 19,
+        "remates_away": 8,
+        "remates_a_puerta_home": 6,
+        "remates_a_puerta_away": 2,
+        "corners_home": 4,
+        "corners_away": 3,
+        "amarillas_home": 1,
+        "amarillas_away": 3,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Atlético Madrid",
+        "away": "FC Barcelona",
+        "parte": 1,
+        "remates_home": 6,
+        "remates_away": 7,
+        "remates_a_puerta_home": 2,
+        "remates_a_puerta_away": 3,
+        "corners_home": 1,
+        "corners_away": 2,
+        "amarillas_home": 3,
+        "amarillas_away": 1,
+        "rojas_home": 1,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Atlético Madrid",
+        "away": "FC Barcelona",
+        "parte": 2,
+        "remates_home": 0,
+        "remates_away": 15,
+        "remates_a_puerta_home": 0,
+        "remates_a_puerta_away": 5,
+        "corners_home": 0,
+        "corners_away": 7,
+        "amarillas_home": 3,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 1
+    },
+    {
+        "fecha": "2026-04-04",
+        "home": "Atlético Madrid",
+        "away": "FC Barcelona",
+        "parte": "total",
+        "remates_home": 6,
+        "remates_away": 22,
+        "remates_a_puerta_home": 2,
+        "remates_a_puerta_away": 8,
+        "corners_home": 1,
+        "corners_away": 9,
+        "amarillas_home": 6,
+        "amarillas_away": 2,
+        "rojas_home": 1,
         "rojas_away": 1
     }
 ]
