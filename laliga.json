@@ -14350,5 +14350,53 @@
         "amarillas_away": 6,
         "rojas_home": 0,
         "rojas_away": 1
+    },
+    {
+        "fecha": "2026-04-06",
+        "home": "Girona FC",
+        "away": "Villarreal",
+        "parte": 1,
+        "remates_home": 3,
+        "remates_away": 2,
+        "remates_a_puerta_home": 0,
+        "remates_a_puerta_away": 0,
+        "corners_home": 4,
+        "corners_away": 1,
+        "amarillas_home": 0,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-06",
+        "home": "Girona FC",
+        "away": "Villarreal",
+        "parte": 2,
+        "remates_home": 7,
+        "remates_away": 7,
+        "remates_a_puerta_home": 2,
+        "remates_a_puerta_away": 0,
+        "corners_home": 3,
+        "corners_away": 3,
+        "amarillas_home": 2,
+        "amarillas_away": 1,
+        "rojas_home": 0,
+        "rojas_away": 0
+    },
+    {
+        "fecha": "2026-04-06",
+        "home": "Girona FC",
+        "away": "Villarreal",
+        "parte": "total",
+        "remates_home": 10,
+        "remates_away": 9,
+        "remates_a_puerta_home": 2,
+        "remates_a_puerta_away": 0,
+        "corners_home": 7,
+        "corners_away": 4,
+        "amarillas_home": 2,
+        "amarillas_away": 2,
+        "rojas_home": 0,
+        "rojas_away": 0
     }
 ]
